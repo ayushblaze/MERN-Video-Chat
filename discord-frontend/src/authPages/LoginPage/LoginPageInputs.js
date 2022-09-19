@@ -1,5 +1,5 @@
 import React from "react";
-import InputWithLabel from "../../shared/InputWithLabel";
+import InputWithLabel from "../../shared/components/InputWithLabel";
 
 const LoginPageInputs = ({ email, setEmail, password, setPassword }) => {
   return (
