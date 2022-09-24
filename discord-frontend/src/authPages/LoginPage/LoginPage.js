@@ -10,7 +10,7 @@ const LoginPage = () => {
   const [isFormValid, setIsFormValid] = useState(false);
 
   const handleLogin = () => {
-    console.log("Logging in");
+    console.log("Logging in"); 
   };
 
   return (
